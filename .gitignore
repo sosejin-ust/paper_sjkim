@@ -1,0 +1,11 @@
+# PDF 본문은 이 저장소가 아니라 Desktop\Papers (Syncthing)에서 관리
+*.pdf
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+
+# Better BibTeX temp files
+*.bib.bak
